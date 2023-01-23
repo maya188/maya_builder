@@ -39,7 +39,7 @@ const Home: NextPage = () => {
           <Spacer />
 
           <Center>
-            <Box marginBottom={4} color="white">
+            <Box marginBottom={4} color="red">
               <a
                 href="https://twitter.com/_buildspace"
                 target="_blank"
